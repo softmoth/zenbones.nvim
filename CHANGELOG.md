@@ -2,6 +2,9 @@
 
 ## [4.3.5](https://github.com/zenbones-theme/zenbones.nvim/compare/v4.3.4...v4.3.5) (2024-08-24)
 
+### Features
+
+* add higher-contrast `darken_special_key` and `lighten_special_key` options distinct from `*_non_text`
 
 ### Bug Fixes
 
